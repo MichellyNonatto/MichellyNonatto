@@ -1,7 +1,7 @@
 ## 😊 Olá você!!!!!
 ### Seje bem-vind@ ao meu perfil.
 
-<h4>📒 Estou estudando densenvolvimento web pelo instituto PROA. </h4>
+<h4>📒 Estou estudando desenvolvimento web pelo instituto PROA. </h4>
 <h4>👩🏽‍💻 Aqui posto meus código aprendido em aula e projetos para fixar e aprender ainda mais a utilização dos códigos.</h4>
 <hr>
 <h4>😁 Hello there!!!</h4>
