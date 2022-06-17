@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nunito&duration=3000&color=E0AAFF&background=FFFFFF00&center=true&multiline=true&width=500&height=60&lines=Ol%C3%A1+voc%C3%AA+%3C3;Seja+bem-vind%40+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nunito&color=E0AAFF&background=FFFFFF00&center=true&multiline=true&width=500&height=60&lines=Ol%C3%A1+voc%C3%AA+%3C3;Seja+bem-vind%40+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <h4>📒 Estou estudando desenvolvimento web pelo instituto PROA. </h4>
 <h4>👩🏽‍💻 Aqui posto meus código aprendido em aula e projetos para fixar e aprender ainda mais a utilização dos códigos.</h4>
