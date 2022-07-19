@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nunito&color=E0AAFF&background=FFFFFF00&center=true&multiline=true&width=500&height=60&lines=Ol%C3%A1+voc%C3%AA+%3C3;Seja+bem-vind%40+ao+meu+perfil!)](https://git.io/typing-svg)
 </div>   
 
-<h4><img align="" title="PROA" alt="Michelly-PROA" height="15" width="auto" src="https://user-images.githubusercontent.com/101263547/174451533-68f20ff6-7eea-4908-8a67-093d4f18d6a0.png"> Estou estudando desenvolvimento web pelo instituto PROA.</h4>
-<h4>👩🏽‍💻 Aqui posto meus código aprendido em aula e projetos para fixar e aprender ainda mais a utilização dos códigos.</h4>
+<h4>Sou estudante em desenvolvimento e aplicações web.</h4>
+<h4>👩🏽‍💻 Aqui posto meus códigos que prático durante minhas horas de estudo.</h4>
 <hr>
 <h4>😁 Hello there!!!</h4>
 <h4>Welcome to my profile.</h4>
-<h5>📙 I'm have student in web developement at institute PROA.</h5>
-<h5>🖥️ Here post my codes learned in class and projects for learn more how to used codes.</h5> <br>
+<h5>📙 I'm have student in developement and aplications web</h5>
+<h5>🖥️ Here I post my codes learned in my study hours</h5> <br>
 
 
 <div align="center">
