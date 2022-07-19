@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=nunito&color=E0AAFF&background=FFFFFF00&center=true&multiline=true&width=500&height=60&lines=Ol%C3%A1+voc%C3%AA+%3C3;Seja+bem-vind%40+ao+meu+perfil!)](https://git.io/typing-svg)
 </div>   
 
-<h4>Sou estudante em desenvolvimento e aplicações web.</h4>
+<h4>🚀Sou estudante em desenvolvimento e aplicações web.</h4>
 <h4>👩🏽‍💻 Aqui posto meus códigos que prático durante minhas horas de estudo.</h4>
 <hr>
 <h4>😁 Hello there!!!</h4>
