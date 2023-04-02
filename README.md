@@ -4,7 +4,7 @@
 </div>   
 
 <h4>🚀Sou estudante em desenvolvimento e aplicações web.</h4>
-<h4>👩🏽‍💻 Aqui posto meus códigos que prático durante minhas horas de estudo.</h4>
+<h4>👩🏽‍💻 Aqui posto meus códigos que pratico durante minhas horas de estudo.</h4>
 <hr>
 <h4>😁 Hello there!!!</h4>
 <h4>Welcome to my profile.</h4>
