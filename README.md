@@ -25,6 +25,7 @@
   <img align="center" title="Java" alt="Michelly-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="C" alt="Michelly-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" title="MySQL" alt="Michelly-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img  align="center" title="Python" alt="Michelly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </div>
    <img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/775142406991380502/962937184837578803/Design_sem_nome.gif?width=663&height=663">
   <div styele="display:inline_block;"><br>
