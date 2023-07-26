@@ -43,4 +43,4 @@
 </div>
 <a href="https://michellynonatto.github.io/Michelly-Nonatto/" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
 
-<!-- ![Snake animation](https://github.com/MichellyNonatto/MichellyNonatto/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/MichellyNonatto/MichellyNonatto/blob/output/github-contribution-grid-snake.svg)
