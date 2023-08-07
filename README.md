@@ -26,6 +26,7 @@
   <img align="center" title="C" alt="Michelly-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" title="MySQL" alt="Michelly-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  align="center" title="Python" alt="Michelly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img  align="center" title="Django" alt="Michelly-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   </div>
    <img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/775142406991380502/962937184837578803/Design_sem_nome.gif?width=663&height=663">
   <div styele="display:inline_block;"><br>
@@ -35,6 +36,7 @@
    <img align="center" title="React" alt="Michelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" title="Spring Boot" alt="Michelly-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" title="Figma" alt="Michelly-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" title="Canva" alt="Michelly-Canva" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  </div>
   <br>
 <div> 
