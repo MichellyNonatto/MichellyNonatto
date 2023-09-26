@@ -14,8 +14,6 @@
 
 <div align="center">
   <a href="https://github.com/MichellyNonatto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MichellyNonatto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MichellyNonatto&theme=synthwave&hide_border=false">
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellyNonatto&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
@@ -47,5 +45,3 @@
   <a href="https://www.linkedin.com/in/michelly-victoria-nonato-coelho-a39620204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 <a href="https://michellynonatto.github.io/Michelly-Nonatto/" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-
-![Snake animation](https://github.com/michellynonatto/michellynonatto/blob/output/github-contribution-grid-snake.svg)
