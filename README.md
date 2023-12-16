@@ -20,9 +20,9 @@ Welcome to my profile.
 
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellynonatto&show_icons=true&theme=synthwave&include_all_commits=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellynonatto&layout=compact&langs_count=7&theme=synthwave&hide=jupyter+notebook"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellynonatto&layout=compact&langs_count=7&theme=synthwave&hide=jupyter+notebook"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=michellynonatto&theme=synthwave&hide_border=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellynonatto&show_icons=true&theme=synthwave&include_all_commits=true"/>
   </a>
 </div>
 
