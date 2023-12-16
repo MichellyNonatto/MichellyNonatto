@@ -19,10 +19,10 @@ Welcome to my profile.
 🖥️ Here I post my codes learned in my study hours
 
 </div>
-
 <div align="center">
-  <a href="https://github.com/MichellyNonatto">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellyNonatto&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellynonatto&show_icons=true&theme=synthwave&include_all_commits=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellynonatto&layout=compact&langs_count=7&theme=synthwave&hide=jupyter+notebook"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=michellynonatto&theme=synthwave&hide_border=false">
   </a>
 </div>
 
