@@ -36,8 +36,10 @@ Welcome to my profile.
   <img  align="center" title="Python" alt="Michelly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" title="Kotlin" alt="Michelly-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </div>
-   <img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/775142406991380502/962937184837578803/Design_sem_nome.gif?width=663&height=663">
-  <div styele="display:inline_block;"><br>
+<img align="right" alt="Michelly-card" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=michellynonatto&label=Visualizações&color=blueviolet&style=flat-square">  
+<br>
+<img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/775142406991380502/962937184837578803/Design_sem_nome.gif?width=663&height=663">
+      <div styele="display:inline_block;"><br>
     <h2>Frameworks</h2>
    <img align="center" title="React" alt="Michelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" title="Next" alt="Michelly-Nextt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -60,4 +62,5 @@ Welcome to my profile.
   <a href = "mailto:smartnovo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="https://www.linkedin.com/in/michelly-victoria-nonato-coelho-a39620204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-<a href="https://michellynonatto.github.io/Michelly-Nonatto/" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+
+
