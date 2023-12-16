@@ -30,8 +30,6 @@ Welcome to my profile.
 <div style="display: inline_block"><br>
   <h2>Linguagens | Language</h2>
   <img align="center" title="JavaScript" alt="Michelly-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="HTML" alt="Michelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="Michelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Java" alt="Michelly-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="C" alt="Michelly-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" title="MySQL" alt="Michelly-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -40,14 +38,22 @@ Welcome to my profile.
   </div>
    <img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/775142406991380502/962937184837578803/Design_sem_nome.gif?width=663&height=663">
   <div styele="display:inline_block;"><br>
+    <h2>Frameworks</h2>
+   <img align="center" title="React" alt="Michelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" title="Next" alt="Michelly-Nextt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="center" title="Spring Boot" alt="Michelly-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img  align="center" title="Django" alt="Michelly-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+ </div>
+ <br>
+  <div styele="display:inline_block;"><br>
     <h2>Ferramentas | Tools</h2>
+    <img align="center" title="HTML" alt="Michelly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="Michelly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Git" alt="Michelly-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="Bootstrap" alt="Michelly-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" title="React" alt="Michelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" title="Spring Boot" alt="Michelly-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+   <img align="center" title="Tailwind" alt="Michelly-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" title="Figma" alt="Michelly-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" title="Canva" alt="Michelly-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img  align="center" title="Django" alt="Michelly-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
  </div>
   <br>
 <div> 
