@@ -38,8 +38,10 @@ Welcome to my profile.
   </div>
 <img align="right" alt="Michelly-card" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=michellynonatto&label=Visualizações&color=blueviolet&style=flat-square">  
 <br>
-<img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/775142406991380502/962937184837578803/Design_sem_nome.gif?width=663&height=663">
-      <div styele="display:inline_block;"><br>
+<img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-4bdc3e2b78.gif">
+
+
+<div styele="display:inline_block;"><br>
     <h2>Frameworks</h2>
    <img align="center" title="React" alt="Michelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" title="Next" alt="Michelly-Nextt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
