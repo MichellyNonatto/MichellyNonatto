@@ -38,7 +38,7 @@ Welcome to my profile.
   </div>
 <img align="right" alt="Michelly-card" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=michellynonatto&label=Visualizações&color=blueviolet&style=flat-square">  
 <br>
-<img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-4bdc3e2b78.gif">
+<img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://github.com/MichellyNonatto/MichellyNonatto/assets/101263547/2ae0be79-3055-4b81-ad3c-7d3cf3ffe072">
 
 
 <div styele="display:inline_block;"><br>
