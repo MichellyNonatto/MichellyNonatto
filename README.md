@@ -45,7 +45,6 @@ Welcome to my profile.
     <h2>Frameworks</h2>
    <img align="center" title="React" alt="Michelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" title="Next" alt="Michelly-Nextt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   <img align="center" title="Spring Boot" alt="Michelly-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img  align="center" title="Django" alt="Michelly-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
  </div>
  <br>
