@@ -34,9 +34,10 @@ Welcome to my profile.
   <img align="center" title="C" alt="Michelly-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" title="MySQL" alt="Michelly-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  align="center" title="Python" alt="Michelly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" title="Kotlin" alt="Michelly-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" title="Swift" alt="Michelly-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> </div>
-<!-- <img align="right" alt="Michelly-card" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=michellynonatto&label=Visualizações&color=blueviolet&style=flat-square">   -->
+    <!--  <img align="center" title="Kotlin" alt="Michelly-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> /> </div> -->
+    <img align="center" title="Swift" alt="Michelly-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> 
+    <img align="right" alt="Michelly-card" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=michellynonatto&label=Visualizações&color=blueviolet&style=flat-square">   
+    <!-- <img align="right" alt="Michelly-card" style="border-radius:50px;" src="https://komarev.com/ghpvc/?username=michellynonatto&label=Visualizações&color=blueviolet&style=flat-square">   -->
 <br>
 <img align="right" alt="Michelly-pic" height="180" style="border-radius:50px;" src="https://github.com/MichellyNonatto/MichellyNonatto/assets/101263547/2ae0be79-3055-4b81-ad3c-7d3cf3ffe072">
 
