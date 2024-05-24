@@ -5,18 +5,14 @@
 
 <div>
     
-### 🚀Sou estudante em desenvolvimento e aplicações web.
-`👩🏽‍💻 Aqui posto meus códigos que pratico durante minhas horas de estudo.`
+## Software Engineer IOS 
 
 <hr>
 
-😁 Hello there!!!
+> 😁  Hello there!!!<br>
+Welcome to my profile. <br>
+🖥️ Here I post my codes learned in my study hours and personal projects 
 
-Welcome to my profile.
-
-📙 I'm have student in developement and aplications web
-
-🖥️ Here I post my codes learned in my study hours
 
 </div>
 <div align="center">
